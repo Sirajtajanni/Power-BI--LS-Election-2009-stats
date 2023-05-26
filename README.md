@@ -1,6 +1,6 @@
+# Power-BI--LS-Election-2009-stats
 Click on code and download the project as zip file
 
-# Power-BI--LS-Election-2009-stats
 The vote share of men and women by states of the Lok Sabha Elections India 2009 is analyzed in the report. Find the power bi file in repository, you can also find the jpg files for the same report in the same folder.
 
 # Analysis of the report
